@@ -1,6 +1,5 @@
-import os, sys, time, socket, json
-from os import popen, system
-from time import sleep
+import os
+import time
 os.system("color A")
 os.system("inxi -c 4")
 print("~~" * 50)
@@ -16,7 +15,7 @@ time.sleep(50)
 os.system("cls")
 system("clear")
 print("~~" * 50)
-port  = input ("IP: ")
+port  = input ("Nmap IP: ")
 os.system("nmap " + port)
 print("~~" * 50)
 time.sleep(50)
@@ -26,12 +25,14 @@ print("~~" * 50)
 iph  = input ("IP Host: ")
 os.system("host " + iph)
 print("~~" * 50)
+time.sleep(50)
 os.system("cls")
 system("clear")
 print("~~" * 50)
 trcc  = input ("IP Traceroute: ")
 os.system("traceroute " + trcc)
 print("~~" * 50)
+time.sleep(50)
 os.system("cls")
 system("clear")
 print("~~" * 50)
