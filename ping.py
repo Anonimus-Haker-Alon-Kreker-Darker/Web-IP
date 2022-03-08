@@ -1,10 +1,6 @@
 import os, sys, time
-from os 
-import system
-from time
-import sleep
-
-    
+from os import system
+from time import sleep   
 os.system("color A")
 print("~~" * 50)
 print("                                    Anonymous Alon kreker    ")
