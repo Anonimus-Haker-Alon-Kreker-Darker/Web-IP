@@ -1,5 +1,5 @@
-import os, sys, time, socket, json
-from os import popen, system
+import os, sys, time
+from os import system
 from time import sleep
 os.system("color A")
 os.system("inxi -c 4")
