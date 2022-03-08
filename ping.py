@@ -6,8 +6,8 @@ import sleep
 
     
 os.system("color A")
-print(style.BLACK + "~~" * 50)
-print(style.WHITE + "                                    Anonymous Alon kreker    ")
+print("~~" * 50)
+print("                                    Anonymous Alon kreker    ")
 time.sleep(50)
 os.system("cls")
 system("clear")
