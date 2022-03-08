@@ -1,7 +1,6 @@
-import os
-import time
-import sleep
-import sys
+import os, sys, time
+from os import popen, system
+from time import sleep
 os.system("color A")
 print("~~" * 50)
 print("                                    Anonymous Alon kreker    ")
@@ -29,4 +28,3 @@ print("~~" * 50)
 time.sleep(50)
 os.system("cls")
 system("clear")
-
