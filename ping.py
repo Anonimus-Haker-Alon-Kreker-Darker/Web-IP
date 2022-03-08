@@ -1,5 +1,5 @@
 import os, sys, time
-from os import popen, system
+from os import  system
 from time import sleep
 os.system("color A")
 print("~~" * 50)
