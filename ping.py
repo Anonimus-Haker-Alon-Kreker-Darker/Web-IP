@@ -1,5 +1,5 @@
 import os
-import time
+import time, sleep, clear, system
 os.system("color A")
 os.system("inxi -c 4")
 print("~~" * 50)
