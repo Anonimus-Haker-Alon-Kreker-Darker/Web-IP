@@ -29,7 +29,4 @@ print("~~" * 50)
 time.sleep(50)
 os.system("cls")
 system("clear")
-print("~~" * 50)
-time.sleep(50)
-os.system("cls")
-system("clear")
+
