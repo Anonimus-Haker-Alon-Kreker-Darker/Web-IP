@@ -8,17 +8,34 @@ Host vam daje klasicnu ip i ipv4, ipv6.
 Pogledajte vise o ip adresama, kod mene ili wikipedije. Wikipedija je pouzdan izvor informacija, a i nemogu svi objavljivati na vikipediji...
 Komande za instalaciju alata i py skripte: 
 
-#sudo apt-get install git
+#LINUX
+
+sudo apt-get install git
 ---
-#sudo apt-get install nmap
+sudo apt-get install nmap
 ---
-#usdo apt-get install python3
+usdo apt-get install python3
 ---
-#git clone https://github.com/Anonimus-Haker-Alon-Kreker-Darker/Web-IP
+git clone https://github.com/Anonimus-Haker-Alon-Kreker-Darker/Web-IP
 ---
-#cd Web-IP
+cd Web-IP
 ---
-#ls
+ls
 ---
-#python3 ping.py
+python3 ping.py
+---
+
+#TERMUX
+
+pkg install git
+---
+pkg install nmap
+---
+pkg install python3
+---
+git clone https://github.com/Anonimus-Haker-Alon-Kreker-Darker/Web-IP
+---
+ls
+---
+cd Web-IP
 ---
