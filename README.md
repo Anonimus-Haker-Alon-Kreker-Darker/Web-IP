@@ -9,9 +9,16 @@ Pogledajte vise o ip adresama, kod mene ili wikipedije. Wikipedija je pouzdan iz
 Komande za instalaciju alata i py skripte: 
 
 #sudo apt-get install git
+---
 #sudo apt-get install nmap
+---
 #usdo apt-get install python3
+---
 #git clone https://github.com/Anonimus-Haker-Alon-Kreker-Darker/Web-IP
+---
 #cd Web-IP
+---
 #ls
+---
 #python3 ping.py
+---
