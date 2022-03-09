@@ -39,4 +39,7 @@ ls
 ---
 cd Web-IP
 ---
+python3 ping.py
+---
+
 #Za Windos trebate skinut na destop plugin py i instalirat Python https://www.python.org/downloads/
