@@ -34,6 +34,8 @@ pkg install nmap
 pkg install python3
 ---
 
+#Za Windos trebate skinut na destop plugin py i instalirat Python https://www.python.org/downloads/
+
 Za Windos trebate preuzet skriptu na pc i trebate skinut python3.0 https://www.python.org/downloads/
 git clone https://github.com/Anonimus-Haker-Alon-Kreker-Darker/Web-IP
 ---
