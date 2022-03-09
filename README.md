@@ -6,7 +6,7 @@ Domena nesmje biti http://www.domenaime.com ili www.domenaime.com, a i domenaime
 Nmap je komanda za dobivanje porta od http ili https protokola.
 Host vam daje klasicnu ip i ipv4, ipv6.
 Pogledajte vise o ip adresama, kod mene ili wikipedije. Wikipedija je pouzdan izvor informacija, a i nemogu svi objavljivati na vikipediji...
-Komande za instalaciju alata i py skripte: 
+Komande za instalaciju alata i py programskog jezika: 
 
 #LINUX
 
